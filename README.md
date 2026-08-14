@@ -1,4 +1,5 @@
-#Primer paso: 
+# Proyecto: Simulación de Lluvia Atmosférica (Geant4)
+Primer paso: 
 Revisa si està instalado "Git" y "docker"
 de lo contrario descargarlo ya que se usaran mas adelante
 #Segundo paso:
